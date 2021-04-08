@@ -1,9 +1,14 @@
-# RGB2CMYK GUI
+# RGB to CMYK GUI
 
 A simple graphical user interface to facilitate the conversion of an
 image from the RGB color space into the CMYK color space on Linux.
 The GUI sits in top of the imagemagick __convert__ command to perform
-the operation.
+the color space conversion operation.
+
+![RGB2CMYK Icon](https://raw.githubusercontent.com/jgmdev/rgb2cmyk/master/resources/rgb2cmyk.svg)
+
+* OS: Linux
+* License: GPLv3
 
 ## Requirements
 
