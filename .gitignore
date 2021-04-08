@@ -1,0 +1,7 @@
+bin/
+obj/
+.fossil-settings/
+.fslckout
+repo.fossil
+rgb2cmyk.depend
+rgb2cmyk.layout

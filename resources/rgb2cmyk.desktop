@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=RGB2CMYK
+GenericName=RGB to CMYK Converter
+Comment=Convert an image from one color space into another
+Keywords=rgb;cmyk;color;space;convert
+Exec=rgb2cmyk
+Icon=rgb2cmyk
+Type=Application
+Terminal=false
+StartupNotify=true
+Categories=Graphics;
