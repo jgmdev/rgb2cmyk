@@ -42,3 +42,9 @@ After a successfull build you can install the utility by executing:
 ```sh
 sudo ninja -C build install
 ```
+
+## Screenshots
+
+![RGB2CMYK main](https://raw.githubusercontent.com/jgmdev/rgb2cmyk/master/screenshots/main.png)
+
+![RGB2CMYK settings](https://raw.githubusercontent.com/jgmdev/rgb2cmyk/master/screenshots/settings.png)
