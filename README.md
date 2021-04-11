@@ -5,7 +5,7 @@ image from the RGB color space into the CMYK color space on Linux.
 The GUI sits in top of the imagemagick __convert__ command to perform
 the color space conversion operation.
 
-![RGB2CMYK Icon](https://raw.githubusercontent.com/jgmdev/rgb2cmyk/master/resources/rgb2cmyk.svg)
+<img width="350px" src="https://raw.githubusercontent.com/jgmdev/rgb2cmyk/master/resources/rgb2cmyk.svg" />
 
 * OS: Linux
 * License: GPLv3
