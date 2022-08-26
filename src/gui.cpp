@@ -1,5 +1,5 @@
 ///////////////////////////////////////////////////////////////////////////
-// C++ code generated with wxFormBuilder (version 3.9.0 Jan 12 2021)
+// C++ code generated with wxFormBuilder (version 3.10.1-234-gd93c9fc0)
 // http://www.wxformbuilder.org/
 //
 // PLEASE DO *NOT* EDIT THIS FILE!
@@ -86,7 +86,7 @@ GUIDialog::GUIDialog( wxWindow* parent, wxWindowID id, const wxString& title, co
 	bSizer9->Add( 0, 10, 1, wxEXPAND, 5 );
 
 	m_buttonConvert = new wxButton( m_panelConversion, wxID_ANY, wxT("Convert"), wxDefaultPosition, wxDefaultSize, 0 );
-	bSizer9->Add( m_buttonConvert, 0, wxALIGN_BOTTOM|wxALIGN_CENTER|wxALL|wxEXPAND, 5 );
+	bSizer9->Add( m_buttonConvert, 0, wxALL|wxEXPAND, 5 );
 
 
 	bSizer3->Add( bSizer9, 0, wxEXPAND, 5 );

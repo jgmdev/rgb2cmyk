@@ -1,5 +1,5 @@
 ///////////////////////////////////////////////////////////////////////////
-// C++ code generated with wxFormBuilder (version 3.9.0 Jan 12 2021)
+// C++ code generated with wxFormBuilder (version 3.10.1-234-gd93c9fc0)
 // http://www.wxformbuilder.org/
 //
 // PLEASE DO *NOT* EDIT THIS FILE!
@@ -64,6 +64,7 @@ class GUIDialog : public wxDialog
 	public:
 
 		GUIDialog( wxWindow* parent, wxWindowID id = wxID_ANY, const wxString& title = wxT("RGB to CMYK Converter"), const wxPoint& pos = wxDefaultPosition, const wxSize& size = wxSize( 750,550 ), long style = wxCAPTION|wxCLOSE_BOX|wxMAXIMIZE_BOX|wxMINIMIZE_BOX|wxRESIZE_BORDER );
+
 		~GUIDialog();
 
 };
