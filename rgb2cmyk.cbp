@@ -32,10 +32,10 @@
 		</Build>
 		<Compiler>
 			<Add option="-Wall" />
-			<Add option="`wx-config-gtk3 --cflags`" />
+			<Add option="`wx-config --cflags`" />
 		</Compiler>
 		<Linker>
-			<Add option="`wx-config-gtk3 --libs`" />
+			<Add option="`wx-config --libs`" />
 		</Linker>
 		<Unit filename="gui.fbp" />
 		<Unit filename="src/app.cpp" />
